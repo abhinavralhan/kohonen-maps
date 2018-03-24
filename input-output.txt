@@ -1,0 +1,15 @@
+Input:
+
+150 rows, 4 columns
+
+Algorithm ran for 100 iterations and produced the following results. Initially 4 nodes are placed at (10,10), (10,11), (11,11), (11,10).
+Ending positions of all columns ('sepal length', 'sepal width', 'petal length', 'petal width') are completely random and can be viewed(from graph, some are overlapped also, take a look at individual clustering for clarity if needed) from the clustering performed.
+
+Output:
+
+Column 1: 12816 neurons generated 
+Column 2: 13117 neurons generated
+Column 3: 12937 neurons generated
+Column 4: 12710 neurons generated
+
+The neurons generated can also be removed from the map if it finds a different BMU.
