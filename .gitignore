@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.txt
+*.png
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
